@@ -25,7 +25,7 @@ Code.
 1. Open index.html in a browser. See how it, well, doesn't look _quite_ right?
 2. Open index.html in your text editor
 3. Visit the W3C validator at:
-   [http://validator.w3.org/#validate_by_input][validator]
+   [://httpvalidator.w3.org/#validate_by_input][validator]
 4. Copy the code from index.html and paste it into the text area
 5. Click the large "Check" button
 6. Use the error messages to correct the code in your copy of `index.html`
